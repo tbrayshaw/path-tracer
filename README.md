@@ -13,8 +13,19 @@ Features:
 - Explicit lighting
 
 Output is determined by the defined scene (spheres) and number of samples (more samples = higher quality). Here are some examples:
-![Example 1](./example3.jpg)
+
+
+![Cornell 1](./example1.jpg)
+
+Cornell Box scene at 200 SPP - took about 2 minutes.
+
+
+![Cornell 2](./example3.jpg)
+
 Cornell Box scene at 40 SPP - took about 20 seconds.
 
+
+
 ![Example 2](./example2.jpg)
+
 Scene with lots of spheres.
